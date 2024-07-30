@@ -2,7 +2,7 @@
 Building an One-stop Hub for all your AI Tools
 
 ## Introduction
-Welcome to the AI Hub Buildkit – an open-source project designed to revolutionize your workspace into a personalized, AI-powered hub. Eliminate the hassle of repeatedly prompting AI for solutions or bookmarking your favorite tools across multiple sites. With this buildkit, you can create your own AI tools, compile, and organize all them into a single, easily accessible site.
+Welcome to the AI Hub Buildkit – an open-source project that helps you create a personalized, AI-powered hub. Avoid the problem of repeatedly prompting AI for solutions or bookmarking frequently-used AI tools across multiple sites. With this buildkit, you can create your own AI tools, compile, and organize all them into one easy-to-access site.
 
 ## Use Cases
 Some suggested use cases can be:
@@ -17,10 +17,10 @@ Check out some of my sites for reference:
 - [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)
 
 ## Features
-- **Straightforward Tool Building Process**: Quickly create personalized AI tools at [MindPal](https://mindpal.space/). Further guide is available in the 'Usage' section.
+- **Straightforward Tool Building Process**: Quickly create your own AI tools at [MindPal](https://mindpal.space/). Further guide is available in the 'Usage' section.
 - **Built With Modern Technology Stack**: Built with Next.js, TypeScript, and Tailwind CSS, the hub is easy to customize, from adding new tools to changing themes and site appearance.
 - **Fully Customizable Hub**: The hub offers extensive customization options, such as adding features, connecting to APIs, or storing data in a database, ensuring it meets the needs of you, your clients, or your team.
-- **Show & Monetize Your Tool At Ease**: Effortlessly showcase your AI tools and monetize them by creating and sharing well-crafted AI workflows.
+- **Ease of Use**: Showcase and monetize your well-crafted AI Tools at ease.
 
 ## Getting Started
 
