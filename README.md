@@ -51,8 +51,10 @@ Welcome to the **AI Hub Buildkit** – your ultimate solution for creating a per
 
 1. Create your own AI Tools on [MindPal](https://mindpal.space/). You can follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE).
 
-To add a new AI tool, create a new entry in the `lib/tools.tsx` file. Example:
-    ```tsx
+2. Share your tool
+
+To add a new AI tool, create a new entry in the `lib/tools.tsx` file following the given in-file template. Example:
+    ```
     {
         slug: "podcast-guest-researcher", // the slug that, when clicked on, will open your tool on, for example: https://your_website/podcast-guest-researcher
 
