@@ -2,14 +2,25 @@
 Building an One-stop Hub for all your AI Tools
 
 ## Introduction
-Welcome to the **AI Hub Buildkit** – your ultimate solution for creating a personalized, AI-powered Tools hub. This open-source project empowers you to create your own AI tools, and build a customized AI hub effortlessly, using Next.js and TypeScript. Say goodbye to wasted time prompting and bookmarking the AI tools that work for you, and hello to a fully customizable, user-friendly platform where you can add and manage self-created AI tools with ease. Build an AI-enhanced workspace that’s perfectly tailored to your needs, effortlessly today!
+Welcome to the AI Hub Buildkit – an open-source project designed to revolutionize your workspace into a personalized, AI-powered hub. Eliminate the hassle of repeatedly prompting AI for solutions or bookmarking your favorite tools across multiple sites. With this buildkit, you can create your own AI tools, compile, and organize all them into a single, easily accessible site.
+
+## Use Cases
+Some suggested use cases can be:
+**Personal Hub**: Create a central repository of AI tools tailored to your needs.
+**Business Hub**: Customize a hub of AI tools for your team and streamline workflows.
+**Specialized Tools**: Build a specialized AI tools hub and monetize your expertise.
+**Lead Magnets**: Attract and engage customers by offering a hub of valuable AI tools.
+**Client Solutions**: Develop a hub of AI tools to address your clients' specific problems and monetize it.
+Check out some of my sites for reference:
+- [AI Hub of Education Tools](https://edu.freeaitools.tech/)
+- [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)
+- [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)
 
 ## Features
-- **Straightforward Tool Building Process**: Build your own AI tools at ease
-- **A Hub built with Next.js, TypeScript, and Tailwind CSS**: A Hub for keeping all your AI tools, built with modern technologies for a seamless development experience.
-- **Fully Customizable**: Tailor your AI hub to your needs and preferences.
-- **Easy Tool Addition**: Add new AI tools by simply filling out tool information.
-- **Show Your Tools**: Showcase your creative AI tools to the world, or even monetize it by building neatly crafted AI workflows for others.
+- **Straightforward Tool Building Process**: Quickly create personalized AI tools at [MindPal](https://mindpal.space/). Further guide is available in the 'Usage' section.
+- **Built With Modern Technology Stack**: Built with Next.js, TypeScript, and Tailwind CSS, the hub is easy to customize, from adding new tools to changing themes and site appearance.
+- **Fully Customizable Hub**: The hub offers extensive customization options, such as adding features, connecting to APIs, or storing data in a database, ensuring it meets the needs of you, your clients, or your team.
+- **Show & Monetize Your Tool At Ease**: Effortlessly showcase your AI tools and monetize them by creating and sharing well-crafted AI workflows.
 
 ## Getting Started
 
