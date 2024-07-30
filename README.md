@@ -1,6 +1,4 @@
 # AI Hub Buildkit
-
-## Taglines
 Building an One-stop Hub for all your AI Tools
 
 ## Introduction
