@@ -51,28 +51,38 @@ Welcome to the **AI Hub Buildkit** – your ultimate solution for creating a per
 
 1. Create your own AI Tools on [MindPal](https://mindpal.space/). You can follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE).
 
-2. Share your tool
+2. Share your tool & copy the Tool ID, see the vid below
+![How to Share Your Tool](AIHub.gif)
+The ID would be something like: `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
 
-To add a new AI tool, create a new entry in the `lib/tools.tsx` file following the given in-file template. Example:
+3. Add a new tool in your hub
+To add a new AI tool, create a new entry in the `lib/tools.tsx` file by copying the given in-file template. Example:
     ```
     {
-        slug: "podcast-guest-researcher", // the slug that, when clicked on, will open your tool on, for example: https://your_website/podcast-guest-researcher
+        slug: "podcast-guest-researcher", 
+        // the slug that, when clicked on, will open your tool on, for example: https://your_website/podcast-guest-researcher
 
-        icon: "🔍", // icon of the tool for visuals
+        icon: "🔍", 
+        // icon of the tool for visuals
 
-        title: "Podcast Guest Researcher", // title of the tool
+        title: "Podcast Guest Researcher", 
+        // title of the tool
 
-        description: "Streamlines the process of researching podcast guests", // description of the tool
+        description: "Streamlines the process of researching podcast guests", 
+        // description of the tool
 
-        category: "", // optional, can categorize your tools
+        category: "", 
+        // optional, can categorize your tools
 
-        workflowID: "669b2c0364d31ec6f5ec0361", // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
+        workflowID: "669b2c0364d31ec6f5ec0361", 
+        // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
 
-        copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.", // A more detailed introduction to your tools, so you can share it with others
+        copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.", 
+        // A more detailed introduction to your tools, so you can share it with others
     }, 
     ```
 
-2. Customize the appearance and functionality of your AI hub through the `app/globals.css` directory.
+4. Explore the codebase and customize the appearance and functionality of your AI hub.
 
 ## Contributing
 
