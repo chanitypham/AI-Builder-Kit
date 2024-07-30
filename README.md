@@ -101,13 +101,10 @@ If you encounter any issues or bugs, please report them by submitting an issue o
 - Any relevant screenshots or error messages.
 - Providing detailed information will help us resolve the issue more effectively.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgement
 - This project is created with the support from [MindPal Labs](https://mindpal.space/)
 
 ## Creator Contact
-For any inquiries or support, please reach out to me - Chanity at [trang.pq@mindpal.com](mailto:trang.pq@mindpal.com).
+For any inquiries or support, please reach out to me (Chanity) at [chanitypham@gmail.com](mailto:chanitypham@gmail.com).
 
 Have fun Building! 🥳
