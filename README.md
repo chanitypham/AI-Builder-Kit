@@ -49,11 +49,11 @@ Welcome to the **AI Hub Buildkit** – your ultimate solution for creating a per
 
 ## Usage
 
-1. Create your own AI Tools on [MindPal](https://mindpal.space/). You can follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE).
+1. Create your own AI Tools on [MindPal](https://mindpal.space/). The process is very straightforward, and creation time takes from 1-2 minutes. As MindPal is quite feature-rich, it is recommended to follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE) so you can make the most customized AI tools for your need.
 
-2. Share your tool & copy the Tool ID, see the vid below
-![How to Share Your Tool](AIHub.gif)
-The ID would be something like: `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
+2. Click Share your tool & copy the Tool ID, see the GIF below
+![How to Share Your Tool](public/AIHub.gif)
+The ID would be something like `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
 
 3. Add a new tool in your hub
 To add a new AI tool, create a new entry in the `lib/tools.tsx` file by copying the given in-file template. Example:
@@ -77,7 +77,7 @@ To add a new AI tool, create a new entry in the `lib/tools.tsx` file by copying 
         workflowID: "669b2c0364d31ec6f5ec0361", 
         // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
 
-        copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.", 
+        copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. ", 
         // A more detailed introduction to your tools, so you can share it with others
     }, 
     ```
