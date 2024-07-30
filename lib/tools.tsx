@@ -32,17 +32,7 @@ export const TOOLS_INFO = [
 
     workflowID: "669b2c0364d31ec6f5ec0361", // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
 
-    copywriting: // Optional. A section answering "What is this tool" and "How to use this tool" for a specific tool. 
-      `
-      1. Introduction
-      - The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.
-      ${<br/>}
-      2. How to Use This Tool
-      To successfully operate the tool, you need to provide the following inputs:
-      - Guest Profile URL: A link to the guest's profile or biography.
-      - Guest Experience to be Highlighted During the Podcast: Specific experiences or important points from the guest.
-      - Episode Theme: The overarching topic or concept for the episode.
-      - Target Audience: The specific demographic or group of listeners.`,
+    copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.",
   }, 
 
   // PRESETS
@@ -60,15 +50,7 @@ export const TOOLS_INFO = [
     workflowID: "podcast-seo-optimizer", 
 
     copywriting: 
-      `
-      1. Introduction
-      The Podcast SEO-friendly Info Generator is a powerful tool designed specifically for podcast creators aiming to enhance their visibility and engagement. This innovative solution streamlines the content creation process, making it easier for podcasters to connect with their audience and improve their search engine optimization (SEO).
-      ${<br/>}
-      2. How to Use This Tool
-      To successfully operate the tool, you need to provide the following inputs:
-      - Podcast URL: A web link to a specific podcast episode or series.
-      - Podcast Content: Textual content or transcription from the podcast.
-      `,
+    "The Podcast SEO-friendly Info Generator is a powerful tool designed specifically for podcast creators aiming to enhance their visibility and engagement. This innovative solution streamlines the content creation process, making it easier for podcasters to connect with their audience and improve their search engine optimization (SEO).",
   },
 
   {
@@ -85,15 +67,6 @@ export const TOOLS_INFO = [
     workflowID: "podcast-recap-generator", 
 
     copywriting: 
-      `
-      1. Introduction
-      The Podcast Recap Generator is an innovative solution designed specifically for podcast creators who want to enhance their content distribution and audience engagement. This powerful tool streamlines the process of transforming podcast episodes into captivating newsletter content, making it simple for users to share valuable insights with their followers.
-      ${<br/>}
-      2. How to Use This Tool
-      To successfully operate the tool, you need to provide the following inputs:
-      - Podcast Transcript: A text file containing the transcript of the podcast episode.
-      - Podcast Transcript (Link): A URL linking directly to an online podcast transcript.
-      - Your Ideas to be Included: A text box for inputting thoughts, suggestions, or specific topics to be addressed.
-      `,
+    "The Podcast Recap Generator is an innovative solution designed specifically for podcast creators who want to enhance their content distribution and audience engagement. This powerful tool streamlines the process of transforming podcast episodes into captivating newsletter content, making it simple for users to share valuable insights with their followers.",
   },
 ]

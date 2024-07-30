@@ -10,7 +10,7 @@ export const TypedComponent = () => {
         1000,
         'customize your own AI workflows',
         1000,
-        "have a website displaying your unique AI tools",
+        'display your unique AI tools',
         1000,
       ]}
       wrapper="span"
