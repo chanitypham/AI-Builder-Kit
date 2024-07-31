@@ -1,5 +1,5 @@
 # AI Builder Kit
-Building an One-stop Hub for all your AI Tools
+Build your own AI tools & Group them in one Hub
 
 ## Introduction
 Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. 
