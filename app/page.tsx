@@ -55,7 +55,7 @@ export default async function Page() {
               <h2>Use Cases</h2>
               <h3>Some suggested use cases can be:</h3>
               <p>👉 Create a central repository of <strong>content writing AI tools</strong> for all your social media sites</p>
-              <p>👉 Make a hub of <strong>AI tools for podcast</strong> and streamline your team's workflows.</p>
+              <p>👉 Make a hub of <strong>AI tools for podcast</strong> and streamline your team&apos;s workflows.</p>
               <p>👉 Build a <strong>SEO Writing AI tools</strong> hub and monetize your expertise.</p>
               <p>👉 Develop a hub of <strong>AI tools for business consulting</strong> and monetize it.
               </p>
