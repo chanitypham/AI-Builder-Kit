@@ -48,6 +48,9 @@ export default async function Page() {
             </ul>
             <section className='my-16 p-6 bg-white rounded-lg shadow-lg mt-8'>
               <h2 className='text-2xl font-bold mb-4'>About this Buildkit</h2>
+              <h3 className='text-lg font-semibold'>Introduction</h3>
+              <p>Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. By building your own AI tools hub, you can avoid repeatedly prompting AI for queries or bookmarking frequently-used AI tools across multiple sites.</p>
+              <p>GitHub Link: https://github.com/chanitypham/AI-Hub-Buildkit</p>
               <ul className='space-y-4'>
                 <li>
                   <h3 className='text-lg font-semibold'>Do I have to add my API key to use these workflows?</h3>

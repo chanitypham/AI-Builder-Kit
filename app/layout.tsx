@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'AI Hub Buildkit | Open-source Kit to Build your own AI Hub',
+  title: 'AI Builder Kit | Open-source Kit to Build your own AI Hub',
   description: 'Open-source Kit to Build your own AI Hub',
 };
 
