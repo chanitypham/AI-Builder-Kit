@@ -78,6 +78,7 @@ body {
   animation: gradient 15s ease infinite;
   background-size: 400% 400%;
   background-attachment: fixed;
+  line-height: 2;
 }
 
 @keyframes gradient {
@@ -217,6 +218,16 @@ body {
 .text_special {
   color: rgb(55, 160, 205);
   font-weight: 700;
+}
+
+.text_special_no_bold {
+  color: rgb(55, 160, 205);
+  font-weight: 500;
+
+}
+
+.text_special_no_bold:hover {
+  color: rgb(125, 193, 222);
 }
 
 .text_special:hover {

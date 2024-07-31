@@ -47,10 +47,11 @@ export default async function Page() {
               ))}
             </ul>
             <section className='my-16 p-6 bg-white rounded-lg shadow-lg mt-8'>
-              <h2 className='text-2xl font-bold mb-4'>About this AI Builder Kit</h2>
-              <h3 className='text-lg font-semibold'>Introduction</h3>
+              <h1 className='text-2xl font-bold mb-4'>About this AI Builder Kit</h1>
+              <h2>Introduction</h2>
               <p>Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub.</p>
-              <p>Access the GitHub Repo <a href='https://github.com/chanitypham/AI-Builder-Kit text_special'>here</a></p>
+              <p>Access the <a href='https://github.com/chanitypham/AI-Builder-Kit' className='text_special'>GitHub Repo</a></p>
+              <br/>
               <h2>Use Cases</h2>
               <h3>Some suggested use cases can be:</h3>
               <p>👉 Create a central repository of <strong>content writing AI tools</strong> for all your social media sites</p>
@@ -60,15 +61,17 @@ export default async function Page() {
               </p>
 
               <h3>Check out some of these sites for reference:</h3>
-              <p>🔗 <a href="https://mindpal.space/workflow" target="_blank">MindPal Tools Hub for more AI Tools Ideas</a>
-              🔗 <a href="https://edu.freeaitools.tech/" target="_blank">AI Hub of Education Tools</a>
-              🔗 <a href="https://seo.freeaitools.tech/" target="_blank">AI Hub of SEO Writing Tools</a>
-              🔗 <a href="https://podcast.freeaitools.tech/" target="_blank">AI Hub of Podcasting Tools</a></p>
+              <p>🔗 <a href="https://mindpal.space/workflow" target="_blank" className='text_special_no_bold'>MindPal Tools Hub for more AI Tools Ideas</a></p>
+              <p>🔗 <a href="https://edu.freeaitools.tech/" target="_blank" className='text_special_no_bold'>AI Hub of Education Tools</a></p>
+              <p>🔗 <a href="https://seo.freeaitools.tech/" target="_blank" className='text_special_no_bold'>AI Hub of SEO Writing Tools</a></p>
+              <p>🔗 <a href="https://podcast.freeaitools.tech/" target="_blank" className='text_special_no_bold'>AI Hub of Podcasting Tools</a></p>
+              <br/>
 
               <h2>Features</h2>
               <p>✅ <strong>Straightforward Process</strong>: Easily build your own AI tools on <a href="https://mindpal.space/" target="_blank">MindPal</a>. Then group them into a single hub with this buildkit.</p>
               <p>✅ <strong>Fully Customizable Hub</strong>: The hub offers extensive customization options (e.g., change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients.</p>
               <p>✅ <strong>Show Your Work</strong>: Showcase and monetize your well-crafted AI Tools at ease.</p>
+
             </section>
           </div>
           <div className="wave"></div>
