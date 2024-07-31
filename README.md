@@ -5,13 +5,13 @@ Building an One-stop Hub for all your AI Tools
 Welcome to the AI Hub Buildkit – an open-source project that helps you create a personalized, AI-powered hub. Avoid the problem of repeatedly prompting AI for solutions or bookmarking frequently-used AI tools across multiple sites. With this buildkit, you can create your own AI tools, compile, and organize all them into one easy-to-access site.
 
 ## Use Cases
-Some suggested use cases can be:
-**Personal Hub**: Create a central repository of AI tools tailored to your needs.
-**Business Hub**: Customize a hub of AI tools for your team and streamline workflows.
-**Specialized Tools**: Build a specialized AI tools hub and monetize your expertise.
-**Lead Magnets**: Attract and engage customers by offering a hub of valuable AI tools.
-**Client Solutions**: Develop a hub of AI tools to address your clients' specific problems and monetize it.
-Check out some of my sites for reference:
+### Some suggested use cases can be:
+- **Personal Hub**: Create a central repository of AI tools tailored to your needs.
+- **Business Hub**: Customize a hub of AI tools for your team and streamline workflows.
+- **Specialized Tools**: Build a specialized AI tools hub and monetize your expertise.
+- **Lead Magnets**: Attract and engage customers by offering a hub of valuable AI tools.
+- **Client Solutions**: Develop a hub of AI tools to address your clients' specific problems and monetize it. 
+### Check out some of my sites for reference:
 - [AI Hub of Education Tools](https://edu.freeaitools.tech/)
 - [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)
 - [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)
@@ -64,7 +64,7 @@ Check out some of my sites for reference:
 
 2. Click Share your tool & copy the Tool ID, see the GIF below
 ![How to Share Your Tool](public/AIHub.gif)
-The ID would be something like `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
+- The ID would be something like `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
 
 3. Add a new tool in your hub
 To add a new AI tool, create a new entry in the `lib/tools.tsx` file by copying the given in-file template. Example:
