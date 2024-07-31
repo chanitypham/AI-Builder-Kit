@@ -267,3 +267,7 @@ h3 {
 p{
   color: #333;
 }
+
+.strong{
+  font-weight: 500;
+}

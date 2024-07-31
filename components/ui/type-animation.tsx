@@ -6,11 +6,11 @@ export const TypedComponent = () => {
   return (
     <TypeAnimation
       sequence={[
-        'build your own AI Hub',
+        'build your own AI tools',
         1000,
-        'customize your own AI workflows',
+        'group your AI Tools in one Hub',
         1000,
-        'display your unique AI tools',
+        'showcase and monetize your AI Tools',
         1000,
       ]}
       wrapper="span"

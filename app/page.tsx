@@ -20,7 +20,7 @@ export default async function Page() {
           <section className='max-w-screen-lg mx-auto px-4 flex flex-col items-center gap-16 pt-14 pb-20'>
             <div className='w-full flex flex-col items-center gap-6 justify-center'>
               <h1 className="z-20 text-3xl md:text-4xl lg:text-5xl text-center font-bold tracking-tight leading-extratight mt-2 text-gray-700">
-                Open-source Buildkit to
+                Open-source Builder Kit to
               </h1>
               <TypedComponent />
             </div>
@@ -47,30 +47,29 @@ export default async function Page() {
               ))}
             </ul>
             <section className='my-16 p-6 bg-white rounded-lg shadow-lg mt-8'>
-              <h2 className='text-2xl font-bold mb-4'>About this Buildkit</h2>
+              <h2 className='text-2xl font-bold mb-4'>About this AI Builder Kit</h2>
               <h3 className='text-lg font-semibold'>Introduction</h3>
-              <p>Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. By building your own AI tools hub, you can avoid repeatedly prompting AI for queries or bookmarking frequently-used AI tools across multiple sites.</p>
-              <p>GitHub Link: https://github.com/chanitypham/AI-Hub-Buildkit</p>
-              <ul className='space-y-4'>
-                <li>
-                  <h3 className='text-lg font-semibold'>Do I have to add my API key to use these workflows?</h3>
-                  <p>No. These workflows are completely free for you to use without your API key.</p>
-                </li>
-                <li>
-                  <h3 className='text-lg font-semibold'>How can I create more workflows like this?</h3>
-                  <p>These workflows are made possible by <a href='https://mindpal.space/' className='text_special'>MindPal</a>, a good tool that helps you create smart AI workflows tailored to your need.</p>
-                </li>
-                <li>
-                  <h3 className='text-lg font-semibold'>Will there be more workflows added?</h3>
-                  <p>Yes. As I continue to explore the exciting world of AI and generative AI, I&apos;ll be adding even more workflows designed to enhance your educational journey.</p>
-                </li>
-                <li>
-                  <h3 className='text-lg font-semibold'>Can I customize these workflows?</h3>
-                  <p> Yes. Currently when viewing one tool, you can have the option to edit it in <a href='https://mindpal.space/' className='text_special'>MindPal</a>. You can go ahead and customize further or create new workflows of your preference there.</p>
-                </li>
-              </ul>
+              <p>Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub.</p>
+              <p>Access the GitHub Repo <a href='https://github.com/chanitypham/AI-Builder-Kit text_special'>here</a></p>
+              <h2>Use Cases</h2>
+              <h3>Some suggested use cases can be:</h3>
+              <p>👉 Create a central repository of <strong>content writing AI tools</strong> for all your social media sites</p>
+              <p>👉 Make a hub of <strong>AI tools for podcast</strong> and streamline your team's workflows.</p>
+              <p>👉 Build a <strong>SEO Writing AI tools</strong> hub and monetize your expertise.</p>
+              <p>👉 Develop a hub of <strong>AI tools for business consulting</strong> and monetize it.
+              </p>
+
+              <h3>Check out some of these sites for reference:</h3>
+              <p>🔗 <a href="https://mindpal.space/workflow" target="_blank">MindPal Tools Hub for more AI Tools Ideas</a>
+              🔗 <a href="https://edu.freeaitools.tech/" target="_blank">AI Hub of Education Tools</a>
+              🔗 <a href="https://seo.freeaitools.tech/" target="_blank">AI Hub of SEO Writing Tools</a>
+              🔗 <a href="https://podcast.freeaitools.tech/" target="_blank">AI Hub of Podcasting Tools</a></p>
+
+              <h2>Features</h2>
+              <p>✅ <strong>Straightforward Process</strong>: Easily build your own AI tools on <a href="https://mindpal.space/" target="_blank">MindPal</a>. Then group them into a single hub with this buildkit.</p>
+              <p>✅ <strong>Fully Customizable Hub</strong>: The hub offers extensive customization options (e.g., change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients.</p>
+              <p>✅ <strong>Show Your Work</strong>: Showcase and monetize your well-crafted AI Tools at ease.</p>
             </section>
-  
           </div>
           <div className="wave"></div>
           <div className="wave"></div>
