@@ -2,25 +2,24 @@
 Building an One-stop Hub for all your AI Tools
 
 ## Introduction
-Welcome to the AI Hub Buildkit – an open-source project that helps you create a personalized, AI-powered hub. Avoid the problem of repeatedly prompting AI for solutions or bookmarking frequently-used AI tools across multiple sites. With this buildkit, you can create your own AI tools, compile, and organize all them into one easy-to-access site.
+Welcome to the AI Hub Buildkit – an open-source project that helps you create a personalized, AI-powered hub. Avoid the problem of repeatedly prompting AI for solutions or bookmarking frequently-used AI tools across multiple sites. With this buildkit, you can build your own AI tools and group them into one central hub.
 
 ## Use Cases
 ### Some suggested use cases can be:
-- **Personal Hub**: Create a central repository of AI tools tailored to your needs.
-- **Business Hub**: Customize a hub of AI tools for your team and streamline workflows.
-- **Specialized Tools**: Build a specialized AI tools hub and monetize your expertise.
-- **Lead Magnets**: Attract and engage customers by offering a hub of valuable AI tools.
-- **Client Solutions**: Develop a hub of AI tools to address your clients' specific problems and monetize it. 
+👍 Create a **central repository** of AI tools tailored to your needs.<br>
+👍 Customize a hub of **AI tools for your team** and streamline workflows.<br>
+👍 Build a **specialized AI tools hub** and monetize your expertise.<br>
+👍 Attract and engage customers by offering a hub of **lead magnets AI tools**.<br>
+👍 Develop a hub of **AI tools for your clients** and monetize it. <br>
 ### Check out some of my sites for reference:
-- [AI Hub of Education Tools](https://edu.freeaitools.tech/)
-- [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)
-- [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)
+👉 [AI Hub of Education Tools](https://edu.freeaitools.tech/)<br>
+👉 [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)<br>
+👉 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
 
 ## Features
-- **Straightforward Tool Building Process**: Quickly create your own AI tools at [MindPal](https://mindpal.space/). Further guide is available in the 'Usage' section.
-- **Built With Modern Technology Stack**: Built with Next.js, TypeScript, and Tailwind CSS, the hub is easy to customize, from adding new tools to changing themes and site appearance.
-- **Fully Customizable Hub**: The hub offers extensive customization options, such as adding features, connecting to APIs, or storing data in a database, ensuring it meets the needs of you, your clients, or your team.
-- **Ease of Use**: Showcase and monetize your well-crafted AI Tools at ease.
+✅ **Straightforward Process**: Quickly create your own AI tools at [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
+✅ **Fully Customizable Hub**: The hub offers extensive customization options (eg. change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients. <br>
+✅ **Show Your Work**: Showcase and monetize your well-crafted AI Tools at ease. <br>
 
 ## Getting Started
 
