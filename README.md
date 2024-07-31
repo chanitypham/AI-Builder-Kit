@@ -59,14 +59,17 @@ Welcome to the AI Builder Kit - an open-source project that helps you build your
 
 ## Usage
 
-1. Create your own AI Tools on [MindPal](https://mindpal.space/). The process is very straightforward, and creation time takes from 1-2 minutes. As MindPal is quite feature-rich, it is recommended to follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE) so you can make the most customized AI tools for your need.
+1. Create your own AI Tools on [MindPal](https://mindpal.space/). 
+- The process is very straightforward, and creation time takes from 1-2 minutes. As MindPal is quite feature-rich, it is recommended to follow the tutorials [here](https://www.youtube.com/watch?v=CcXvHkBQuSE) so you can make the most customized AI tools for your need.
 
 2. Click Share your tool & copy the Tool ID, see the GIF below
 ![How to Share Your Tool](public/AIHub.gif)
 - The ID would be something like `69b2c0364d31ec6f5ec0361` by default, or `example-workflow-name` if you customize it.
 
-3. Add a new tool in your hub
-To add a new AI tool, create a new entry in the `lib/tools.tsx` file by copying the given in-file template. Example:
+3. Group the Tool in one Hub
+- Open the Repo in your text editor. Navigate to `lib/tools.tsx`
+- To add a new AI tool, create a new entry in this file by copying the given in-file template. 
+- Example:
     ```
     {
         slug: "podcast-guest-researcher", 
