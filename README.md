@@ -32,13 +32,13 @@ Welcome to the AI Builder Kit - an open-source project that helps you build your
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/chanitypham/ai-hub-buildkit.git
+    gh repo clone chanitypham/AI-Builder-Kit
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ai-hub-buildkit
+    cd ai-builder-kit
     ```
 
 3. Install dependencies:
