@@ -17,7 +17,7 @@ Welcome to the AI Builder Kit - an open-source project that helps you build your
 🔗 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
 
 ## Features
-✅ **Straightforward Process**: Quickly create your own AI tools at [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
+✅ **Straightforward Process**: Easily build your own AI tools on [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
 ✅ **Fully Customizable Hub**: The hub offers extensive customization options (eg. change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients. <br>
 ✅ **Show Your Work**: Showcase and monetize your well-crafted AI Tools at ease. <br>
 
