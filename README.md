@@ -6,15 +6,15 @@ Welcome to the AI Hub Buildkit – an open-source project that helps you create 
 
 ## Use Cases
 ### Some suggested use cases can be:
-👍 Create a **central repository** of AI tools tailored to your needs.<br>
-👍 Customize a hub of **AI tools for your team** and streamline workflows.<br>
-👍 Build a **specialized AI tools hub** and monetize your expertise.<br>
-👍 Attract and engage customers by offering a hub of **lead magnets AI tools**.<br>
-👍 Develop a hub of **AI tools for your clients** and monetize it. <br>
+👉 Create a **central repository** of AI tools tailored to your needs.<br>
+👉 Customize a hub of **AI tools for your team** and streamline workflows.<br>
+👉 Build a **specialized AI tools hub** and monetize your expertise.<br>
+👉 Attract and engage customers by offering a hub of **lead magnets AI tools**.<br>
+👉 Develop a hub of **AI tools for your clients** and monetize it. <br>
 ### Check out some of my sites for reference:
-👉 [AI Hub of Education Tools](https://edu.freeaitools.tech/)<br>
-👉 [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)<br>
-👉 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
+🔗 [AI Hub of Education Tools](https://edu.freeaitools.tech/)<br>
+🔗 [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)<br>
+🔗 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
 
 ## Features
 ✅ **Straightforward Process**: Quickly create your own AI tools at [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
