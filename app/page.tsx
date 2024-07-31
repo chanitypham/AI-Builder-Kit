@@ -47,7 +47,7 @@ export default async function Page() {
               ))}
             </ul>
             <section className='my-16 p-6 bg-white rounded-lg shadow-lg mt-8'>
-              <h1 className='text-2xl font-bold mb-4'>About this AI Builder Kit</h1>
+              <h1 className='text-2xl font-bold mb-4'>About This AI Builder Kit</h1>
               <h2>Introduction</h2>
               <p>Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub.</p>
               <p>Access the <a href='https://github.com/chanitypham/AI-Builder-Kit' className='text_special'>GitHub Repo</a></p>
