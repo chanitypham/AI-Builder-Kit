@@ -116,6 +116,6 @@ If you encounter any issues or bugs, please report them by submitting an issue o
 - This project is created with the support from [MindPal Labs](https://mindpal.space/)
 
 ## Creator Contact
-For any inquiries or support, please reach out to me (Chanity) at [trang.pq@mindpal.com](mailto:trang.pq@mindpal.com).
+For any inquiries or support, please reach out to me (Chanity) at [trang.pq@mindpal.io](mailto:trang.pq@mindpal.io).
 
 Have fun Building! 🥳
