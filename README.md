@@ -4,22 +4,23 @@ Build your own AI tools & Group them in one Hub
 ## Introduction
 Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. 
 
+## Features
+✅ Build your custom AI tools on [MindPal](https://mindpal.space/).<br>
+✅ Group all your Tools in a Hub with this builder kit. <br>
+✅ Customize your Hub with themes, custom domains, databases, and more. <br>
+✅ Showcase and monetize your well-crafted AI Tools Hub. <br>
+
 ## Use Cases
-### Some suggested use cases can be:
+### Some example use cases can be:
 👉 Create a central repository of **content writing AI tools** for all your social media sites<br>
 👉 Make a hub of **AI tools for podcast** and streamline your team's workflows.<br>
-👉 Build a **SEO Writing AI tools** hub and monetize your expertise.<br>
+👉 Build an **SEO Writing AI tools** hub and monetize your expertise.<br>
 👉 Develop a hub of **AI tools for business consulting** and monetize it.<br>
 ### Check out some of these sites for reference:
 🔗 [MindPal Tools Hub for more AI Tools Ideas](https://mindpal.space/workflow)<br>
 🔗 [AI Hub of Education Tools](https://edu.freeaitools.tech/)<br>
 🔗 [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)<br>
 🔗 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
-
-## Features
-✅ **Straightforward Process**: Easily build your own AI tools on [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
-✅ **Fully Customizable Hub**: The hub offers extensive customization options (eg. change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients. <br>
-✅ **Show Your Work**: Showcase and monetize your well-crafted AI Tools at ease. <br>
 
 ## Getting Started
 
@@ -118,6 +119,6 @@ If you encounter any issues or bugs, please report them by submitting an issue o
 - This project is created with the support from [MindPal Labs](https://mindpal.space/)
 
 ## Creator Contact
-For any inquiries or support, please reach out to me (Chanity) at [trang.pq@mindpal.io](mailto:trang.pq@mindpal.io).
+For any inquiries, support, or simply just your thoughts, feel free to drop me (Chanity) an email at [trang.pq@mindpal.io](mailto:trang.pq@mindpal.io).
 
 Have fun Building! 🥳
