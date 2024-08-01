@@ -11,7 +11,7 @@ Welcome to the AI Builder Kit - an open-source project that helps you build your
 ✅ **Share with the world**: Showcase and monetize your well-crafted AI Tools Hub.<br>
 
 ## Use Cases
-### Some suggested use cases can be:
+### Some example use cases can be:
 👉 Create a central repository of **content writing AI tools** for all your social media sites<br>
 👉 Make a hub of **AI tools for podcast** and streamline your team's workflows.<br>
 👉 Build a **SEO Writing AI tools** hub and monetize your expertise.<br>
@@ -119,6 +119,6 @@ If you encounter any issues or bugs, please report them by submitting an issue o
 - This project is created with the support from [MindPal Labs](https://mindpal.space/)
 
 ## Creator Contact
-For any inquiries or support, please reach out to me (Chanity) at [trang.pq@mindpal.io](mailto:trang.pq@mindpal.io).
+For any inquiries, support, or simply just your thoughts, feel free to drop me (Chanity) an email at [trang.pq@mindpal.io](mailto:trang.pq@mindpal.io).
 
 Have fun Building! 🥳
