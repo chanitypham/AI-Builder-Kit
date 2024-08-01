@@ -30,7 +30,7 @@ export const TOOLS_INFO = [
 
     category: "", // optional, can categorize your tools
 
-    workflowID: "669b2c0364d31ec6f5ec0361", // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
+    workflowID: "podcast-guest-researcher", // the ID of the workflow on MindPal, can be viewed when sharing the link, it is the ID after `https://workflow.mindpal.space/669b2c0364d31ec6f5ec0361` 
 
     copywriting: "The Podcast Guest Researcher is an innovative tool designed to enhance your podcasting experience by streamlining the preparation process for interviews. This tool empowers hosts to create compelling episodes that captivate audiences through its array of powerful features.", // A more detailed introduction to your tools, so you can share it with others
   }, 
