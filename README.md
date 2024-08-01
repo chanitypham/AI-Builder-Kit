@@ -4,6 +4,11 @@ Build your own AI tools & Group them in one Hub
 ## Introduction
 Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. 
 
+## Features
+✅ **Build your own AI tools**: Easily build your own AI tools on [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
+✅ **Group all your Tools in a Hub**: Centralize all your tools in one hub. The hub also offers extensive customization options (eg. change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients. <br>
+✅ **Show Your Hub**: Showcase and monetize your well-crafted AI Tools Hub at ease. <br>
+
 ## Use Cases
 ### Some suggested use cases can be:
 👉 Create a central repository of **content writing AI tools** for all your social media sites<br>
@@ -15,11 +20,6 @@ Welcome to the AI Builder Kit - an open-source project that helps you build your
 🔗 [AI Hub of Education Tools](https://edu.freeaitools.tech/)<br>
 🔗 [AI Hub of SEO Writing Tools](https://seo.freeaitools.tech/)<br>
 🔗 [AI Hub of Podcasting Tools](https://podcast.freeaitools.tech/)<br>
-
-## Features
-✅ **Straightforward Process**: Easily build your own AI tools on [MindPal](https://mindpal.space/). Then group them into a single hub with this buildkit. <br>
-✅ **Fully Customizable Hub**: The hub offers extensive customization options (eg. change themes, add API / Database, etc); ensure to meets the needs of you, your team, or your clients. <br>
-✅ **Show Your Work**: Showcase and monetize your well-crafted AI Tools at ease. <br>
 
 ## Getting Started
 
