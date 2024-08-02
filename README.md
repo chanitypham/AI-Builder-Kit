@@ -4,6 +4,10 @@ Build your own AI tools & Group them in one Hub
 ## Introduction
 Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. 
 
+
+## Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bJlEU1YAECQ" frameborder="0" allowfullscreen></iframe>
+
 ## Features
 ✅ Build your custom AI tools on [MindPal](https://mindpal.space/).<br>
 ✅ Group all your Tools in a Hub with this builder kit. <br>
