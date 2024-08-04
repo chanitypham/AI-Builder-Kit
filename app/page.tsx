@@ -1,5 +1,4 @@
 import MainNavbar from '@/components/Navbar';
-import { siteConfig } from '@/lib/config';
 import Head from 'next/head';
 import { Card, CardHeader} from '@nextui-org/card';
 import { TypedComponent } from '@/components/ui/type-animation';
@@ -9,8 +8,8 @@ export default async function Page() {
     return (
       <>
         <Head>
-          <title>{siteConfig.tagline} | {siteConfig.name}</title>
-          <meta name='description' content={siteConfig.desc} />
+          <title>AI Builder Kit - Build your own AI tools & Group them in one Hub</title>
+          <meta name='description' content='An open-source project that helps you build your own AI tools and group them into one central hub. ' />
           <meta name='viewport' content='width=device-width, initial-scale=1' />
           <meta property="og:image" content="/opengraph.png" />
           <link rel='icon' href='/favicon.ico' />
