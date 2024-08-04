@@ -51,11 +51,6 @@ export default async function ToolPage({ params }: ToolProps) {
           ) : (
             <p className="text-gray-600">No workflow available for this tool.</p>
           )}
-          <div className="flex justify-center mb-2 mt-2">
-            <Link href={`https://brain.mindpal.space/personal/workflow?twid=${tool.workflowID}`} className="button inline-flex items-center">
-              Customize This Tool 
-            </Link>
-          </div>
         </div>
         <div className="w-full max-w-4xl p-6 bg-white rounded-lg shadow-lg mt-8">
           <h2 className="text-2xl font-bold text-gray-700 mb-4">
