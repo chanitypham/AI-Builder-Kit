@@ -5,7 +5,7 @@ Build your own team of AI tools in seconds, not hours
 Welcome to the AI Builder Kit - an open-source project that helps you build your own AI tools and group them into one central hub. 
 
 ## Quick Demo Video on YouTube
-[![AI Builder Kit](https://res.cloudinary.com/marcomontalbano/image/upload/v1722591085/video_to_markdown/images/youtube--bJlEU1YAECQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bJlEU1YAECQ "AI Builder Kit")
+[![Build your own team of AI Tools in seconds, not hours | AI Builder Kit](https://res.cloudinary.com/marcomontalbano/image/upload/v1722825823/video_to_markdown/images/youtube--bJlEU1YAECQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bJlEU1YAECQ?si=2QF0DWRr1Iv-i_Qx "Build your own team of AI Tools in seconds, not hours | AI Builder Kit")
 
 ## Features
 ✅ Build your custom AI tools on [MindPal](https://mindpal.space/).<br>
